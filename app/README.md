@@ -1,6 +1,10 @@
-#THIS IS A PORTFOLIO WEBSITE 
+##Portfolio Website
+This website showcases my professional accomplishments, certifications, work experience, and projects. The website preview folder contains screenshots demonstrating the current design and layout.
 
-The website highlights all the accomplishments, certifications, internships (Work Experience), and Projects that have been worked on.
+**Note:** The website is currently under development with several updates in progress:
+The technical skills section is being refined
+Projects section is being expanded
+Additional projects are being uploaded to GitHub
+All project links will be updated once the GitHub repositories are complete
 
-
-NOTE: There are still a few changes to be added in the technical skills section and the projects section on the website. Not all projects have been added to GitHub, and will be added shortly. Once that is done, all the links will be updated. After all the changes have been made, the website will then be published online. 
+Once these final changes are implemented, the website will be published online.
