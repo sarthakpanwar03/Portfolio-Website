@@ -1,4 +1,5 @@
-##Portfolio Website
+**#PORTFOLIO WEBSITE**
+
 This website showcases my professional accomplishments, certifications, work experience, and projects. The website preview folder contains screenshots demonstrating the current design and layout.
 
 **Note:** The website is currently under development with several updates in progress:
