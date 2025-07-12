@@ -8,7 +8,6 @@ import { mockData } from "../data/mockData";
 const WorkExperience = () => {
   return (
     <div className="min-h-screen bg-black relative overflow-hidden">
-      {/* Subtle Dark Background */}
       <div className="absolute inset-0 bg-gradient-to-br from-gray-900/20 to-black"></div>
       
       <div className="relative z-10 py-8 md:py-20 px-4 sm:px-6 lg:px-8">

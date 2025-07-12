@@ -15,7 +15,7 @@ const Certifications = () => {
 
   return (
     <div className="min-h-screen bg-black relative overflow-hidden">
-      {/* Subtle Dark Background */}
+
       <div className="absolute inset-0 bg-gradient-to-br from-gray-900/20 to-black"></div>
       
       <div className="relative z-10 py-8 md:py-20 px-4 sm:px-6 lg:px-8">
@@ -97,7 +97,7 @@ const Certifications = () => {
             </Card>
           </div>
 
-          {/* Skills Acquired */}
+          {/* Skills Category */}
           <div className="mb-12 md:mb-16">
             <Card className="bg-gray-900/30 border-gray-800/50">
               <CardHeader>
